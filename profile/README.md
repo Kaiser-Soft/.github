@@ -11,4 +11,3 @@ Somos una empresa pequeña y dinámica, enfocada en las tecnologías emergentes 
 
 - [@LeoRami99](https://www.https://github.com/LeoRami99)
 - [@Lotryol](https://github.com/lotryol)
-
