@@ -9,5 +9,5 @@ Somos una empresa pequeña y dinámica, enfocada en las tecnologías emergentes 
 
 ## Authors
 
-- [@LeoRami99](https://www.https://github.com/LeoRami99)
+- [@LeoRami99](https://www.github.com/LeoRami99)
 - [@Lotryol](https://github.com/lotryol)
